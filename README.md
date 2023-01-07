@@ -1,7 +1,7 @@
 # Learning
 Dikala Anda Gabut! 
 
-! Bahasa Pemprograman :
+ Bahasa Pemprograman :
 1. C++ 
 2. Python
 3. Javascript
