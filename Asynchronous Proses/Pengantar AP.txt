@@ -1,0 +1,9 @@
+
+/*
+=>Proses yang dijalankan berdasarkan sebuah urutan dan saling menunggu disebut dengan proses synchronous.
+=> Dalam asynchronous process, kita bisa menjalankan proses 
+yang berada di baris kedua tanpa harus menunggu kode pada baris pertama selesai dieksekusi. 
+Program asynchronous memungkinkan suatu proses berjalan sembari menunggu proses lainnya selesai. Umumnya, 
+kita memanfaatkan asynchronous pada proses yang besar dan membutuhkan waktu lama, seperti mengambil data dari internet, 
+menyimpan data ke database, dan membaca data dari sebuah berkas.*/
+

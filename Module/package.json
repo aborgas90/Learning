@@ -1,0 +1,13 @@
+{
+    "name": "user",
+    "version": "1.0.0",
+    "description": "",
+    "main": "ES6Module.js",
+    "type": "module",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node ES6Module.js"
+    },
+    "author": "",
+    "license": "ISC"
+  }
