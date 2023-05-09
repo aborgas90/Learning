@@ -1,0 +1,5 @@
+Promise memiliki beberapa static method yang dapat digunakan untuk 
+mempermudah penggunaan dalam berbagai kasus. 
+Pada materi ini, kami akan membahas empat static method dari class Promise 
+yang umum digunakan, yaitu Promise.all, Promise.race, Promise.allSettled, 
+dan Promise.any.
